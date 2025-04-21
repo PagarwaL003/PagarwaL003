@@ -1,12 +1,12 @@
-👋 Hello, I'm Piyush Agarwal
-🔧 I am a dedicated and detail-oriented developer with a strong interest in building scalable, user-centric solutions.
-💼 My areas of expertise include full-stack development, and machine learning.
-🧠 I enjoy solving complex problems and continuously enhancing my skills through hands-on projects and research.
-📱 Currently focused on Next.JS & Android development using flutter.
-🤝 I am open to collaborative opportunities, innovative ideas, and meaningful tech initiatives.
-📚 Lifelong learner committed to continuous professional growth.
+👋 Hello, I'm Piyush Agarwal <br/>
+🔧 I am a dedicated and detail-oriented developer with a strong interest in building scalable, user-centric solutions. <br/>
+💼 My areas of expertise include full-stack development, and machine learning. <br/>
+🧠 I enjoy solving complex problems and continuously enhancing my skills through hands-on projects and research. <br/>
+📱 Currently focused on Next.JS & Android development using flutter. <br/>
+🤝 I am open to collaborative opportunities, innovative ideas, and meaningful tech initiatives.<br/>
+📚 Lifelong learner committed to continuous professional growth.<br/>
 
-Let’s connect and innovate together.
+Let’s connect and innovate together.<br/>
 
 
 ## 🌐 Socials:
